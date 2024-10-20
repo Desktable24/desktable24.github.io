@@ -1,0 +1,18 @@
+body {
+  background-color: #a2cffe;
+}
+.tictactoe {
+  background-color: #000000; 
+  color: #ffff4d; 
+  font-family: "Brush Script MT", Cursive;
+  font-size: 12pt
+}
+.proxy:link{
+  color: #a2cffe;
+}
+h2{
+  display:inline-block
+}
+.toeboard{
+  
+}
