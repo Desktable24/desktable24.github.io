@@ -13,3 +13,11 @@ body {
 h2{
   display:inline-block
 }
+.toeboard{
+  width: 96px;
+  font-size: 96pt;
+  border-style: solid;
+  text-align: center;
+  padding: 20px;
+  display:inline-block
+}
